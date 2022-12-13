@@ -14,7 +14,7 @@ I am familiar with the following technologies:
 5. Learn to use composer in every project
 
 In the near future, I plan to study the work of various libraries on PHP, as well as learn how to work with the Laravel framework.
-After that I want to learn JavaScript and React framework as I need to learn Ajax requests and also in most vacancy need to know JS.
+After that I want to learn JavaScript and React as I need to learn Ajax requests and also in most vacancy need to know JS.
 
 Currently, I would be very happy to get some kind of internship.
 I want to start putting my knowledge into practice as soon as possible, as well as expand my knowledge.
